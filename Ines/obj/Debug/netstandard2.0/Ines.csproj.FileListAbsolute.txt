@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\Ines\Ines\bin\Debug\netstandard2.0\Ines.deps.json
+C:\Users\usuario\source\repos\Ines\Ines\bin\Debug\netstandard2.0\Ines.dll
+C:\Users\usuario\source\repos\Ines\Ines\bin\Debug\netstandard2.0\Ines.pdb
+C:\Users\usuario\source\repos\Ines\Ines\obj\Debug\netstandard2.0\Ines.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Ines\Ines\obj\Debug\netstandard2.0\Ines.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ines\Ines\obj\Debug\netstandard2.0\Ines.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Ines\Ines\obj\Debug\netstandard2.0\Ines.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Ines\Ines\obj\Debug\netstandard2.0\Ines.dll
+C:\Users\usuario\source\repos\Ines\Ines\obj\Debug\netstandard2.0\Ines.pdb
